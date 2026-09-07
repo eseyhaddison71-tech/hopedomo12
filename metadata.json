@@ -1,0 +1,6 @@
+{
+  "name": "HopeBridge Cameroon",
+  "description": "A compassionate, transparent donation and humanitarian relief platform supporting homeless children, vulnerable elderly, and emergency relief in Cameroon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
